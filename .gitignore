@@ -1,0 +1,7 @@
+./deps/libevent
+./deps/googletest
+./deps/jsoncpp
+build/*
+cmake-build-*/*
+.vscode/*
+#*#

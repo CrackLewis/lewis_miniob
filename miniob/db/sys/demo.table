@@ -1,0 +1,28 @@
+{
+	"fields" : 
+	[
+		{
+			"len" : 4,
+			"name" : "__trx",
+			"offset" : 0,
+			"type" : "ints",
+			"visible" : false
+		},
+		{
+			"len" : 4,
+			"name" : "col1",
+			"offset" : 4,
+			"type" : "ints",
+			"visible" : true
+		},
+		{
+			"len" : 20,
+			"name" : "col2",
+			"offset" : 8,
+			"type" : "chars",
+			"visible" : true
+		}
+	],
+	"indexes" : null,
+	"table_name" : "demo"
+}
